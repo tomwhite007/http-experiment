@@ -1,0 +1,14 @@
+{
+    "feed": [
+        {
+            "id": 1,
+            "title": "feed item 1",
+            "body": "item 1 body"
+        },
+        {
+            "id": 2,
+            "title": "feed item 2",
+            "body": "item 2 body"
+        }
+    ]
+}

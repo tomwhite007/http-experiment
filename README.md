@@ -1,2 +1,2 @@
 # http-experiment
-exercise in Angular http strategies
+An exercise in Angular http strategies
